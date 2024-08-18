@@ -99,14 +99,14 @@ The two audio files below are generated with the same prompt: "piano CMajor". Th
 
 
 This is before fine-tuning:
-<audio controls src="audio/not_tuned_Piano_CMjor.wav" type="audio/wav"></audio> 
+<audio controls src="not_tuned_Piano_CMjor.wav" type="audio/wav"></audio> 
 
 
 This is after fine-tuning:
 
 
 <audio controls>
- <source src="audio/fine_tuned_Piano_Cmaj.wav" type="audio/wav" />
+ <source src="fine_tuned_Piano_Cmaj.wav" type="audio/wav" />
  Your browser does not support the audio element.
 </audio> 
 
@@ -121,14 +121,14 @@ The two audio files below are generated with the same prompt: "ukulele Cmaj, fol
 
 
 This is before fine-tuning:
-<audio controls src="audio/not finetuned ukulele Cmaj, followed by Fmaj, Gmaj, and Cmaj.wav" title="Title"></audio> 
+<audio controls src="not finetuned ukulele Cmaj, followed by Fmaj, Gmaj, and Cmaj.wav" title="Title"></audio> 
 
 
 This is after fine-tuning:
 
 
 <audio controls>
- <source src="audio/fine-tuned ukulele Cmaj, followed by Fmaj, Gmaj, and Cmaj.wav" type="audio/wav" />
+ <source src="fine-tuned ukulele Cmaj, followed by Fmaj, Gmaj, and Cmaj.wav" type="audio/wav" />
  Your browser does not support the audio element.
 </audio> 
 
